@@ -75,7 +75,7 @@ I enjoy creating real products that solve real problems.
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=himesh2795&show_icons=true&theme=react&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=himesh2795&show_icons=true&count_private=true&include_all_commits=true&theme=react&hide_border=true" />
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=himesh2795&theme=react&hide_border=true" />
 </p>
 
