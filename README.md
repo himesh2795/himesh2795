@@ -83,8 +83,11 @@ I enjoy creating real products that solve real problems.
 
 ## ⏱️ WakaTime Stats
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=himesh2795&layout=compact&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=himesh2795&layout=compact&theme=react&hide_border=true" alt="WakaTime Stats" />
 </p>
 
 ---
