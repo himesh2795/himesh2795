@@ -84,15 +84,17 @@ I enjoy creating real products that solve real problems.
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C026%20hrs%2047%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.28%20million%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.28%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 250.8 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 1 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -100,6 +102,46 @@ I enjoy creating real products that solve real problems.
  > 
 > 🔑 33 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                985 commits         █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
+🌆 Daytime                1617 commits        ████████░░░░░░░░░░░░░░░░░   31.46 % 
+🌃 Evening                2493 commits        ████████████░░░░░░░░░░░░░   48.50 % 
+🌙 Night                  45 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   469 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+Tuesday                  653 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Wednesday                1094 commits        █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
+Thursday                 341 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+Friday                   284 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+Saturday                 1324 commits        ██████░░░░░░░░░░░░░░░░░░░   25.76 % 
+Sunday                   975 commits         █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Python                   14 hrs 55 mins      █████████████████████████   98.83 % 
+YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+DockerIgnore file        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔥 Editors: 
+PyCharm                  15 hrs 5 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      15 hrs 5 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -113,7 +155,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 01:02:46 UTC
+ Last Updated on 06/01/2026 00:57:12 UTC
 <!--END_SECTION:waka-->
 
 ---
