@@ -84,7 +84,7 @@ I enjoy creating real products that solve real problems.
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C145%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C147%20hrs%2011%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -92,9 +92,9 @@ I enjoy creating real products that solve real problems.
 
 **🐱 My GitHub Data** 
 
-> 📦 251.0 kB Used in GitHub's Storage 
+> 📦 251.1 kB Used in GitHub's Storage 
  > 
-> 🏆 28 Contributions in the Year 2026
+> 🏆 36 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -105,21 +105,21 @@ I enjoy creating real products that solve real problems.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1002 commits        █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
-🌆 Daytime                1623 commits        ████████░░░░░░░░░░░░░░░░░   31.27 % 
-🌃 Evening                2505 commits        ████████████░░░░░░░░░░░░░   48.27 % 
-🌙 Night                  60 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+🌞 Morning                1004 commits        █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
+🌆 Daytime                1623 commits        ████████░░░░░░░░░░░░░░░░░   31.23 % 
+🌃 Evening                2510 commits        ████████████░░░░░░░░░░░░░   48.30 % 
+🌙 Night                  60 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   490 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-Tuesday                  659 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-Wednesday                1094 commits        █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
+Monday                   490 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+Tuesday                  662 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Wednesday                1098 commits        █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
 Thursday                 362 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-Friday                   284 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-Saturday                 1324 commits        ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
-Sunday                   977 commits         █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
+Friday                   284 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+Saturday                 1324 commits        ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
+Sunday                   977 commits         █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
 ```
 
 
@@ -129,17 +129,17 @@ Sunday                   977 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   9 hrs 28 mins       ██████████████████████░░░   86.37 % 
-Text                     1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Python                   10 hrs 14 mins      ████████████████████████░   94.83 % 
+HTML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Text                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+GitIgnore file           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-PyCharm                  10 hrs 57 mins      █████████████████████████   100.00 % 
+PyCharm                  10 hrs 48 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      10 hrs 57 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -155,7 +155,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/03/2026 01:13:43 UTC
+ Last Updated on 19/03/2026 01:12:29 UTC
 <!--END_SECTION:waka-->
 
 ---
