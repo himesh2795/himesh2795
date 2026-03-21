@@ -84,7 +84,7 @@ I enjoy creating real products that solve real problems.
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C147%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C147%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -94,7 +94,7 @@ I enjoy creating real products that solve real problems.
 
 > 📦 251.1 kB Used in GitHub's Storage 
  > 
-> 🏆 36 Contributions in the Year 2026
+> 🏆 39 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -105,21 +105,21 @@ I enjoy creating real products that solve real problems.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1004 commits        █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
-🌆 Daytime                1623 commits        ████████░░░░░░░░░░░░░░░░░   31.23 % 
-🌃 Evening                2510 commits        ████████████░░░░░░░░░░░░░   48.30 % 
+🌞 Morning                1007 commits        █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
+🌆 Daytime                1623 commits        ████████░░░░░░░░░░░░░░░░░   31.21 % 
+🌃 Evening                2510 commits        ████████████░░░░░░░░░░░░░   48.27 % 
 🌙 Night                  60 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   490 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-Tuesday                  662 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
-Wednesday                1098 commits        █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
-Thursday                 362 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-Friday                   284 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-Saturday                 1324 commits        ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
-Sunday                   977 commits         █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
+Monday                   490 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+Tuesday                  662 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Wednesday                1098 commits        █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
+Thursday                 362 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+Friday                   287 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+Saturday                 1324 commits        ██████░░░░░░░░░░░░░░░░░░░   25.46 % 
+Sunday                   977 commits         █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
 ```
 
 
@@ -129,17 +129,17 @@ Sunday                   977 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   8 hrs 21 mins       ███████████████████████░░   93.75 % 
-HTML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-Text                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-GitIgnore file           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Python                   5 hrs 49 mins       ██████████████████████░░░   89.58 % 
+HTML                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+GitIgnore file           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-PyCharm                  8 hrs 54 mins       █████████████████████████   100.00 % 
+PyCharm                  6 hrs 30 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      8 hrs 54 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -155,7 +155,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/03/2026 01:08:26 UTC
+ Last Updated on 21/03/2026 01:04:24 UTC
 <!--END_SECTION:waka-->
 
 ---
