@@ -84,7 +84,7 @@ I enjoy creating real products that solve real problems.
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C152%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C153%20hrs%2045%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -129,33 +129,33 @@ Sunday                   977 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   4 hrs 31 mins       ████████████████████░░░░░   79.01 % 
-textmate                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-HTML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-TOML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Python                   4 hrs 26 mins       ██████████████████░░░░░░░   72.62 % 
+textmate                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+Text                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 
 🔥 Editors: 
-PyCharm                  5 hrs 43 mins       █████████████████████████   100.00 % 
+PyCharm                  6 hrs 7 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 43 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   23 repos            ███████████░░░░░░░░░░░░░░   45.10 % 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Python                   21 repos            ███████████░░░░░░░░░░░░░░   42.86 % 
+HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 ```
 
 
 
 
- Last Updated on 27/03/2026 01:16:47 UTC
+ Last Updated on 28/03/2026 01:10:12 UTC
 <!--END_SECTION:waka-->
 
 ---
