@@ -84,7 +84,7 @@ I enjoy creating real products that solve real problems.
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C153%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C153%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -94,7 +94,7 @@ I enjoy creating real products that solve real problems.
 
 > 📦 251.1 kB Used in GitHub's Storage 
  > 
-> 🏆 39 Contributions in the Year 2026
+> 🏆 44 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -105,21 +105,21 @@ I enjoy creating real products that solve real problems.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1007 commits        █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
-🌆 Daytime                1623 commits        ████████░░░░░░░░░░░░░░░░░   31.21 % 
-🌃 Evening                2510 commits        ████████████░░░░░░░░░░░░░   48.27 % 
+🌞 Morning                1007 commits        █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
+🌆 Daytime                1629 commits        ████████░░░░░░░░░░░░░░░░░   31.28 % 
+🌃 Evening                2512 commits        ████████████░░░░░░░░░░░░░   48.23 % 
 🌙 Night                  60 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   490 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-Tuesday                  662 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-Wednesday                1098 commits        █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
-Thursday                 362 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-Friday                   287 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-Saturday                 1324 commits        ██████░░░░░░░░░░░░░░░░░░░   25.46 % 
-Sunday                   977 commits         █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
+Monday                   490 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+Tuesday                  662 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Wednesday                1098 commits        █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
+Thursday                 362 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+Friday                   289 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+Saturday                 1330 commits        ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
+Sunday                   977 commits         █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
 ```
 
 
@@ -129,33 +129,33 @@ Sunday                   977 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   4 hrs 26 mins       ██████████████████░░░░░░░   72.62 % 
-textmate                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-Text                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Python                   4 hrs 26 mins       ██████████████████░░░░░░░   71.81 % 
+textmate                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+Text                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 
 🔥 Editors: 
-PyCharm                  6 hrs 7 mins        █████████████████████████   100.00 % 
+PyCharm                  6 hrs 11 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      6 hrs 7 mins        █████████████████████████   100.00 % 
+Mac                      6 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
 Python                   21 repos            ███████████░░░░░░░░░░░░░░   42.86 % 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
 JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 ```
 
 
 
 
- Last Updated on 28/03/2026 01:10:12 UTC
+ Last Updated on 29/03/2026 01:19:51 UTC
 <!--END_SECTION:waka-->
 
 ---
