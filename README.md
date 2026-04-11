@@ -92,9 +92,9 @@ I enjoy creating real products that solve real problems.
 
 **🐱 My GitHub Data** 
 
-> 📦 251.1 kB Used in GitHub's Storage 
+> 📦 251.2 kB Used in GitHub's Storage 
  > 
-> 🏆 51 Contributions in the Year 2026
+> 🏆 54 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -105,21 +105,21 @@ I enjoy creating real products that solve real problems.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1009 commits        █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
-🌆 Daytime                1632 commits        ████████░░░░░░░░░░░░░░░░░   31.29 % 
-🌃 Evening                2515 commits        ████████████░░░░░░░░░░░░░   48.22 % 
+🌞 Morning                1012 commits        █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
+🌆 Daytime                1632 commits        ████████░░░░░░░░░░░░░░░░░   31.27 % 
+🌃 Evening                2515 commits        ████████████░░░░░░░░░░░░░   48.19 % 
 🌙 Night                  60 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday                   492 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-Tuesday                  662 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-Wednesday                1101 commits        █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
+Tuesday                  662 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+Wednesday                1101 commits        █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
 Thursday                 362 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-Friday                   289 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-Saturday                 1330 commits        ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
-Sunday                   980 commits         █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
+Friday                   292 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+Saturday                 1330 commits        ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
+Sunday                   980 commits         █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
 ```
 
 
@@ -129,17 +129,17 @@ Sunday                   980 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   3 hrs 47 mins       ██████████████████░░░░░░░   71.04 % 
-YAML                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-Docker                   22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Python                   2 hrs 20 mins       ███████████████░░░░░░░░░░   61.44 % 
+YAML                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+Docker                   22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
 
 🔥 Editors: 
-PyCharm                  5 hrs 20 mins       █████████████████████████   100.00 % 
+PyCharm                  3 hrs 49 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 20 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -155,7 +155,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/04/2026 01:20:17 UTC
+ Last Updated on 11/04/2026 01:15:31 UTC
 <!--END_SECTION:waka-->
 
 ---
