@@ -129,17 +129,17 @@ Sunday                   980 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   2 hrs 20 mins       ██████████████░░░░░░░░░░░   57.17 % 
-Other                    33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-HTML                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-Docker                   22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+Other                    33 mins             ████████░░░░░░░░░░░░░░░░░   30.80 % 
+HTML                     24 mins             ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
+Docker                   22 mins             █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
+Python                   14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+TOML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
 
 🔥 Editors: 
-PyCharm                  4 hrs 6 mins        █████████████████████████   100.00 % 
+PyCharm                  1 hr 48 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 6 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 48 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -155,7 +155,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/04/2026 01:26:44 UTC
+ Last Updated on 14/04/2026 01:24:43 UTC
 <!--END_SECTION:waka-->
 
 ---
