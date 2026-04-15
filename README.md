@@ -129,17 +129,17 @@ Sunday                   980 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    33 mins             ████████░░░░░░░░░░░░░░░░░   30.80 % 
-HTML                     24 mins             ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
-Docker                   22 mins             █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
-Python                   14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-TOML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Other                    33 mins             ██████████████░░░░░░░░░░░   54.79 % 
+HTML                     24 mins             ██████████░░░░░░░░░░░░░░░   40.73 % 
+XML                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-PyCharm                  1 hr 48 mins        █████████████████████████   100.00 % 
+PyCharm                  1 hr                █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 48 mins        █████████████████████████   100.00 % 
+Mac                      1 hr                █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -155,7 +155,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/04/2026 01:24:43 UTC
+ Last Updated on 15/04/2026 01:21:23 UTC
 <!--END_SECTION:waka-->
 
 ---
