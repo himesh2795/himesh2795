@@ -84,7 +84,7 @@ I enjoy creating real products that solve real problems.
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C161%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C162%20hrs%2027%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -129,17 +129,18 @@ Sunday                   980 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    33 mins             ██████████████░░░░░░░░░░░   54.79 % 
-HTML                     24 mins             ██████████░░░░░░░░░░░░░░░   40.73 % 
-XML                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Python                   49 mins             ███████████░░░░░░░░░░░░░░   44.92 % 
+Other                    33 mins             ████████░░░░░░░░░░░░░░░░░   30.23 % 
+HTML                     24 mins             ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
+XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🔥 Editors: 
-PyCharm                  1 hr                █████████████████████████   100.00 % 
+PyCharm                  1 hr 45 mins        ████████████████████████░   95.58 % 
+Cursor                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
 
 💻 Operating System: 
-Mac                      1 hr                █████████████████████████   100.00 % 
+Mac                      1 hr 50 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -155,7 +156,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/04/2026 01:21:23 UTC
+ Last Updated on 16/04/2026 01:27:13 UTC
 <!--END_SECTION:waka-->
 
 ---
