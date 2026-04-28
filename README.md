@@ -129,18 +129,18 @@ Sunday                   982 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-YAML                     4 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   36.52 % 
-Python                   3 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   27.81 % 
-Bash                     1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-HTML                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-Other                    47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+YAML                     4 hrs 50 mins       ███████████░░░░░░░░░░░░░░   42.21 % 
+Python                   2 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
+HTML                     1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Other                    47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+Bash                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 
 🔥 Editors: 
-PyCharm                  11 hrs 24 mins      █████████████████████░░░░   85.47 % 
-Cursor                   1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+PyCharm                  9 hrs 38 mins       █████████████████████░░░░   84.12 % 
+Cursor                   1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
 
 💻 Operating System: 
-Mac                      13 hrs 21 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -156,7 +156,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/04/2026 01:30:29 UTC
+ Last Updated on 28/04/2026 01:50:57 UTC
 <!--END_SECTION:waka-->
 
 ---
