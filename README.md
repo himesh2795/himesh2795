@@ -129,18 +129,13 @@ Sunday                   982 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 23 mins        ████████░░░░░░░░░░░░░░░░░   31.70 % 
-YAML                     1 hr 20 mins        ████████░░░░░░░░░░░░░░░░░   30.63 % 
-Other                    47 mins             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Bash                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  2 hrs 34 mins       ███████████████░░░░░░░░░░   58.80 % 
-Cursor                   1 hr 48 mins        ██████████░░░░░░░░░░░░░░░   41.20 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 hrs 23 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -156,7 +151,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/05/2026 01:54:47 UTC
+ Last Updated on 02/05/2026 01:31:57 UTC
 <!--END_SECTION:waka-->
 
 ---
