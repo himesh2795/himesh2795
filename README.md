@@ -84,7 +84,7 @@ I enjoy creating real products that solve real problems.
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C184%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C185%20hrs%204%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -129,13 +129,18 @@ Sunday                   982 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     37 mins             █████████████████████░░░░   82.02 % 
+Text                     6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+textmate                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+DockerIgnore file        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   37 mins             ████████████████████░░░░░   81.09 % 
+PyCharm                  8 mins              █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      45 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -151,7 +156,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/05/2026 01:48:52 UTC
+ Last Updated on 06/05/2026 01:47:23 UTC
 <!--END_SECTION:waka-->
 
 ---
