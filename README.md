@@ -84,6 +84,8 @@ I enjoy creating real products that solve real problems.
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C202%20hrs-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.34%20million%20lines%20of%20code-blue?style=flat)
@@ -100,6 +102,46 @@ I enjoy creating real products that solve real problems.
  > 
 > 🔑 34 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1039 commits        █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
+🌆 Daytime                1654 commits        ████████░░░░░░░░░░░░░░░░░   31.15 % 
+🌃 Evening                2542 commits        ████████████░░░░░░░░░░░░░   47.87 % 
+🌙 Night                  75 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   515 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+Tuesday                  670 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Wednesday                1117 commits        █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
+Thursday                 379 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Friday                   302 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+Saturday                 1342 commits        ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
+Sunday                   985 commits         █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Python                   4 hrs 54 mins       ███████████████████░░░░░░   75.33 % 
+HTML                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+textmate                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+
+🔥 Editors: 
+PyCharm                  6 hrs 30 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      6 hrs 30 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -113,7 +155,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/05/2026 02:07:19 UTC
+ Last Updated on 19/05/2026 02:07:34 UTC
 <!--END_SECTION:waka-->
 
 ---
