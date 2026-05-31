@@ -129,20 +129,20 @@ Sunday                   985 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   5 hrs 19 mins       ██████████████░░░░░░░░░░░   57.23 % 
-YAML                     2 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
-Bash                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-Text                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Python                   3 hrs 28 mins       ███████████░░░░░░░░░░░░░░   42.56 % 
+YAML                     2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
+Markdown                 1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Bash                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+Text                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 
 🔥 Editors: 
-PyCharm                  7 hrs 43 mins       █████████████████████░░░░   83.07 % 
-Cursor                   1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-Claude Code              14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+PyCharm                  5 hrs 46 mins       ██████████████████░░░░░░░   70.67 % 
+Cursor                   1 hr 51 mins        ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
+Claude Code              31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
 VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      9 hrs 18 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -158,7 +158,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/05/2026 01:57:49 UTC
+ Last Updated on 31/05/2026 02:12:41 UTC
 <!--END_SECTION:waka-->
 
 ---
