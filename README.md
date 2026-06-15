@@ -84,7 +84,7 @@ I enjoy creating real products that solve real problems.
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C274%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C276%20hrs%2032%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -92,15 +92,15 @@ I enjoy creating real products that solve real problems.
 
 **🐱 My GitHub Data** 
 
-> 📦 251.3 kB Used in GitHub's Storage 
+> 📦 251.5 kB Used in GitHub's Storage 
  > 
-> 🏆 80 Contributions in the Year 2026
+> 🏆 81 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
  > 
-> 🔑 36 Private Repositories 
+> 🔑 37 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -129,35 +129,36 @@ Sunday                   985 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 14 hrs 48 mins      █████████████░░░░░░░░░░░░   51.83 % 
-Python                   10 hrs 37 mins      █████████░░░░░░░░░░░░░░░░   37.19 % 
-Bash                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-Text                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-Jupyter                  42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Markdown                 16 hrs 25 mins      █████████████░░░░░░░░░░░░   53.89 % 
+Python                   10 hrs 44 mins      █████████░░░░░░░░░░░░░░░░   35.22 % 
+Bash                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Text                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Jupyter                  44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 
 🔥 Editors: 
-Claude Code              20 hrs 1 min        ██████████████████░░░░░░░   70.10 % 
-PyCharm                  6 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
-Cursor                   2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+Claude Code              21 hrs 39 mins      ██████████████████░░░░░░░   71.03 % 
+PyCharm                  6 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
+Cursor                   2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 Operating System: 
-Mac                      28 hrs 33 mins      █████████████████████████   100.00 % 
+Mac                      30 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   22 repos            ███████████░░░░░░░░░░░░░░   44.00 % 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Python                   22 repos            ███████████░░░░░░░░░░░░░░   43.14 % 
+HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 ```
 
 
 
 
- Last Updated on 14/06/2026 02:32:18 UTC
+ Last Updated on 15/06/2026 02:37:08 UTC
 <!--END_SECTION:waka-->
 
 ---
