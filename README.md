@@ -84,7 +84,7 @@ I enjoy creating real products that solve real problems.
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C337%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C344%20hrs%2035%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -129,19 +129,19 @@ Sunday                   985 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   20 hrs 20 mins      █████████████░░░░░░░░░░░░   52.41 % 
-Markdown                 12 hrs 25 mins      ████████░░░░░░░░░░░░░░░░░   32.01 % 
-JavaScript               1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-Text                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-JSON                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+Python                   18 hrs 54 mins      █████████████░░░░░░░░░░░░   51.47 % 
+Markdown                 11 hrs 37 mins      ████████░░░░░░░░░░░░░░░░░   31.65 % 
+JavaScript               1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Text                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+JSON                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 
 🔥 Editors: 
-Claude Code              28 hrs 15 mins      ██████████████████░░░░░░░   72.78 % 
-PyCharm                  10 hrs 24 mins      ███████░░░░░░░░░░░░░░░░░░   26.82 % 
-Cursor                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Claude Code              26 hrs 52 mins      ██████████████████░░░░░░░   73.15 % 
+PyCharm                  9 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   26.39 % 
+Cursor                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 💻 Operating System: 
-Mac                      38 hrs 49 mins      █████████████████████████   100.00 % 
+Mac                      36 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -157,7 +157,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/06/2026 02:08:08 UTC
+ Last Updated on 26/06/2026 02:09:20 UTC
 <!--END_SECTION:waka-->
 
 ---
