@@ -84,7 +84,7 @@ I enjoy creating real products that solve real problems.
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C378%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C385%20hrs%2023%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -129,20 +129,20 @@ Sunday                   1003 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 16 hrs 57 mins      █████████████░░░░░░░░░░░░   50.67 % 
-Python                   11 hrs 20 mins      ████████░░░░░░░░░░░░░░░░░   33.88 % 
-JSON                     1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-HTML                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-Text                     37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Markdown                 22 hrs 13 mins      █████████████░░░░░░░░░░░░   50.42 % 
+Python                   15 hrs 20 mins      █████████░░░░░░░░░░░░░░░░   34.80 % 
+JSON                     2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+HTML                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Mermaid                  34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 🔥 Editors: 
-Claude Code              28 hrs 10 mins      █████████████████████░░░░   84.17 % 
-PyCharm                  4 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-Cursor                   20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-Antigravity Desktop      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Claude Code              39 hrs 20 mins      ██████████████████████░░░   89.29 % 
+PyCharm                  4 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+Antigravity Desktop      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Cursor                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-Mac                      33 hrs 27 mins      █████████████████████████   100.00 % 
+Mac                      44 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -158,7 +158,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/07/2026 01:50:36 UTC
+ Last Updated on 04/07/2026 01:49:20 UTC
 <!--END_SECTION:waka-->
 
 ---
