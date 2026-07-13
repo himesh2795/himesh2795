@@ -84,7 +84,7 @@ I enjoy creating real products that solve real problems.
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C426%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C427%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -129,19 +129,19 @@ Sunday                   1006 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   22 hrs 49 mins      ██████████████░░░░░░░░░░░   55.54 % 
-Markdown                 12 hrs 37 mins      ████████░░░░░░░░░░░░░░░░░   30.74 % 
-JavaScript               3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-Other                    1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-Text                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Python                   22 hrs 20 mins      █████████████░░░░░░░░░░░░   53.92 % 
+Markdown                 13 hrs 22 mins      ████████░░░░░░░░░░░░░░░░░   32.26 % 
+JavaScript               3 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+Other                    1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Text                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 🔥 Editors: 
-Claude Code              32 hrs 16 mins      ████████████████████░░░░░   78.55 % 
-PyCharm                  8 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
+Claude Code              33 hrs 9 mins       ████████████████████░░░░░   79.99 % 
+PyCharm                  8 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
 Cursor                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 💻 Operating System: 
-Mac                      41 hrs 5 mins       █████████████████████████   100.00 % 
+Mac                      41 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -157,7 +157,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/07/2026 01:29:25 UTC
+ Last Updated on 13/07/2026 01:30:12 UTC
 <!--END_SECTION:waka-->
 
 ---
