@@ -1,17 +1,6 @@
 
 <!--
 **himesh2795/himesh2795** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 <!-- Banner -->
@@ -24,7 +13,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there, I'm Himesh 👋</h1>
 
 <p align="center">
-  <b>Senior AI/ML Engineer • Python Developer • GCP PCA Certified</b>
+  <b>Senior AI Engineer • Agentic Systems & RAG • Python • GCP PCA Certified</b>
 </p>
 
 <p align="center">
@@ -36,9 +25,9 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me  
 
-I’m a **Senior AI/ML Engineer** and **Python Backend Developer** with **6+ years** of experience building scalable AI-driven systems — from **LLM-powered apps, RAG pipelines, backend services**, to **cloud-native deployments** across **GCP & AWS**.
+I'm a **Senior AI Engineer** with **7+ years** in Python and **3+ years** building production AI systems — multi-agent orchestration layers, RAG pipelines, LLM backends, and voice AI. I own systems end-to-end: from architecture and prompt design through Cloud Run deployment and observability.
 
-I enjoy creating real products that solve real problems.
+I build for real users, not demos.
 
 ---
 
@@ -47,27 +36,29 @@ I enjoy creating real products that solve real problems.
 ### **Languages & Frameworks**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tornado-1E90FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### **AI/LLM Stack**
+### **AI / LLM Stack**
 <p align="left">
   <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vector%20Stores-Pinecone-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Redis_Vector-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-Powered-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gemini%20%2F%20Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ChromaDB-F97316?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FAISS-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge"/>
 </p>
 
 ### **Cloud & DevOps**
 <p align="left">
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloud%20Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
@@ -162,30 +153,34 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 ---
 
-## 🧩 Featured Projects
+## 🔨 What I've Built
 
-### 🔹 **Talk To Data – Natural Language SQL Assistant**  
-LLM-powered SQL query generator → fetch data from DB without writing SQL.
+Most of my production work is under NDA, but here's what I've shipped:
 
-### 🔹 **Contract AI – Clause Comparison + Suggestions**  
-RAG system to compare contract clauses and highlight owner-favourable changes.
+### 🔹 Multi-Agent Automotive AI Platform
+Central orchestrator harness wiring specialised agents (inventory, scheduling, customer context) — each with its own tools, prompt, and state. Real-time tool calls to Cox Automotive/xTime APIs. Voice AI microservice (Pipecat + Deepgram) with production-grade latency. React/TypeScript monitoring panel.
+`LangChain · Gemini · FastAPI · ChromaDB · Pipecat · WebRTC · GCP Cloud Run`
 
-### 🔹 **Document Q&A (RAG-based Assistant)**  
-Upload a PDF → ask questions → get deep semantic answers.
+### 🔹 Production RAG Tutoring System (2 years, 1,373 commits)
+Full RAG pipeline for a major US university — retrieval architecture, deterministic Sympy validation engine as a backstop for LLM output, semantic caching, LTI platform integration. Real students in production.
+`LangChain · OpenAI · ChromaDB · FAISS · FastAPI · GCP`
 
-### 🔹 **GCP Retail AI – Recommendation Engine**  
-Built product recommendations using GCP Retail API for WooCommerce store.
+### 🔹 NL-to-SQL Agent
+Natural language → BigQuery SQL agent over institutional databases (SIS, LMS). Async two-service FastAPI architecture on GCP, constrained to Slack's 3-second timeout.
+`LangChain · BigQuery · FastAPI · GCP Cloud Run`
 
-_For full list: check `Repositories` section → sorted by stars._
+### 🔹 LLM Candidate Analyzer
+Automated JD parsing, multi-dimension LLM scoring with structured Pydantic output, weighted profile engine, ATS integration.
+`Gemini · Pydantic · FastAPI · Django`
 
 ---
 
 ## 🧩 Fun Facts  
 
-✔ I love building **real-world AI systems**, not demo apps  
+✔ I build **production AI systems** — multi-agent, RAG, voice AI — not demos  
 ✔ I enjoy **teaching Python & AI fundamentals**  
-✔ Strong focus on **health, mobility, and long-term wellness**  
-✔ Building mindset → **“Built for more than tasks.”**  
+✔ **GCP Professional Cloud Architect** certified  
+✔ 37 private repos behind the scenes  
 
 ---
 
@@ -197,4 +192,3 @@ _For full list: check `Repositories` section → sorted by stars._
 ---
 
 <p align="center">Thanks for stopping by! 🙌</p>
-
