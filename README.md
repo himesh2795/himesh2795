@@ -38,6 +38,8 @@ I build for real users, not demos.
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tornado-1E90FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
@@ -51,6 +53,7 @@ I build for real users, not demos.
   <img src="https://img.shields.io/badge/ChromaDB-F97316?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/FAISS-009688?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
 ### **Cloud & DevOps**
