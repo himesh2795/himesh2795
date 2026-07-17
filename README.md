@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="mailto:nagarhimesh27@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/himesh-nagar"><img src="https://img.shields.io/badge/LinkedIn-Himesh%20Nagar-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/himesh-nagar-1171a2182/"><img src="https://img.shields.io/badge/LinkedIn-Himesh%20Nagar-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 ---
@@ -188,7 +188,7 @@ Automated JD parsing, multi-dimension LLM scoring with structured Pydantic outpu
 
 ## 📬 Contact  
 📧 **Email:** nagarhimesh27@gmail.com  
-🔗 **LinkedIn:** https://linkedin.com/in/himesh-nagar  
+🔗 **LinkedIn:** https://www.linkedin.com/in/himesh-nagar-1171a2182/  
 🐍 **GitHub:** https://github.com/himesh2795  
 
 ---
