@@ -78,17 +78,17 @@ I build for real users, not demos.
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C450%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C455%20hrs%2033%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.39%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 253.2 kB Used in GitHub's Storage 
+> 📦 253.3 kB Used in GitHub's Storage 
  > 
-> 🏆 127 Contributions in the Year 2026
+> 🏆 130 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -99,21 +99,21 @@ I build for real users, not demos.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1077 commits        █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
-🌆 Daytime                1670 commits        ████████░░░░░░░░░░░░░░░░░   30.82 % 
-🌃 Evening                2588 commits        ████████████░░░░░░░░░░░░░   47.76 % 
+🌞 Morning                1077 commits        █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+🌆 Daytime                1673 commits        ████████░░░░░░░░░░░░░░░░░   30.86 % 
+🌃 Evening                2588 commits        ████████████░░░░░░░░░░░░░   47.73 % 
 🌙 Night                  84 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   545 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-Tuesday                  679 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-Wednesday                1128 commits        █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
-Thursday                 391 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+Monday                   545 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+Tuesday                  679 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+Wednesday                1128 commits        █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
+Thursday                 391 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
 Friday                   314 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-Saturday                 1355 commits        ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Sunday                   1007 commits        █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+Saturday                 1358 commits        ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
+Sunday                   1007 commits        █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
 ```
 
 
@@ -123,18 +123,18 @@ Sunday                   1007 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 14 hrs 21 mins      ██████████░░░░░░░░░░░░░░░   40.48 % 
-Python                   12 hrs 40 mins      █████████░░░░░░░░░░░░░░░░   35.75 % 
-JavaScript               5 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Text                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-YAML                     42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Python                   12 hrs 40 mins      ███████████░░░░░░░░░░░░░░   43.02 % 
+Markdown                 10 hrs 33 mins      █████████░░░░░░░░░░░░░░░░   35.84 % 
+JavaScript               4 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+YAML                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Diff                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 🔥 Editors: 
-Claude Code              32 hrs 29 mins      ███████████████████████░░   91.59 % 
-PyCharm                  2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+Claude Code              26 hrs 49 mins      ███████████████████████░░   91.04 % 
+PyCharm                  2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
 
 💻 Operating System: 
-Mac                      35 hrs 28 mins      █████████████████████████   100.00 % 
+Mac                      29 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -150,7 +150,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/07/2026 01:20:59 UTC
+ Last Updated on 19/07/2026 01:27:34 UTC
 <!--END_SECTION:waka-->
 
 ---
