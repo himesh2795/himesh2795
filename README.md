@@ -78,7 +78,7 @@ I build for real users, not demos.
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C467%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C475%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue?style=flat)
 
@@ -123,18 +123,18 @@ Sunday                   1012 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   16 hrs 20 mins      ████████████░░░░░░░░░░░░░   47.75 % 
-Markdown                 11 hrs 37 mins      ████████░░░░░░░░░░░░░░░░░   34.00 % 
-JavaScript               3 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-Bash                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-YAML                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Python                   17 hrs 9 mins       ████████████░░░░░░░░░░░░░   48.91 % 
+Markdown                 12 hrs 37 mins      █████████░░░░░░░░░░░░░░░░   36.01 % 
+JavaScript               2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+Bash                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+YAML                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
 🔥 Editors: 
-Claude Code              30 hrs 34 mins      ██████████████████████░░░   89.40 % 
-PyCharm                  3 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+Claude Code              31 hrs 18 mins      ██████████████████████░░░   89.27 % 
+PyCharm                  3 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
 
 💻 Operating System: 
-Mac                      34 hrs 12 mins      █████████████████████████   100.00 % 
+Mac                      35 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -150,7 +150,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/07/2026 01:25:54 UTC
+ Last Updated on 23/07/2026 01:45:04 UTC
 <!--END_SECTION:waka-->
 
 ---
