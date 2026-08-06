@@ -78,9 +78,9 @@ I build for real users, not demos.
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C549%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C555%20hrs%2038%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-344%20hrs%2022%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-350%20hrs%2019%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -125,40 +125,40 @@ Sunday                   1012 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 17 hrs 45 mins      ██████████████░░░░░░░░░░░   55.89 % 
-Python                   9 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   29.59 % 
-JavaScript               1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-Other                    1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-Git Config               39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Markdown                 13 hrs 59 mins      ███████████░░░░░░░░░░░░░░   45.72 % 
+Python                   11 hrs 23 mins      █████████░░░░░░░░░░░░░░░░   37.23 % 
+JavaScript               1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+Other                    1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Git Config               39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 
 🔥 Editors: 
-Claude Code              25 hrs 4 mins       ████████████████████░░░░░   78.95 % 
-PyCharm                  6 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+Claude Code              23 hrs 43 mins      ███████████████████░░░░░░   77.52 % 
+PyCharm                  6 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
 
 💻 Operating System: 
-Mac                      31 hrs 46 mins      █████████████████████████   100.00 % 
+Mac                      30 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 42 mins (84.09%)
+⏱ AI Coding Time: 25 hrs 53 mins (84.55%)
 
-✍️ 2,798 lines written by AI, 484 lines written by hand (85.25% AI-written)
+✍️ 2,577 lines written by AI, 484 lines written by hand (84.19% AI-written)
 
-🔤 742,232,228 Input Tokens, 1,760,904 Output Tokens
+🔤 917,608,738 Input Tokens, 1,604,728 Output Tokens
 
-💵 $3750.78 Estimated AI Cost This Week
+💵 $4626.68 Estimated AI Cost This Week
 
-🧠 35 AI Sessions, 412 AI Prompts
+🧠 30 AI Sessions, 343 AI Prompts
 
-Opus                     2,883 lines         █████████████████████████   100.00 % 
+Opus                     2,675 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 85.25% of written lines came from AI
-📄 Detailed Prompter — average 1,292 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 16.34% of changed lines were hand-edited
+🤖 AI-Driven — 84.19% of written lines came from AI
+📄 Detailed Prompter — average 1,025 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 17.39% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -174,7 +174,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 01:26:19 UTC
+ Last Updated on 06/08/2026 01:23:37 UTC
 <!--END_SECTION:waka-->
 
 ---
