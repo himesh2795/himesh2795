@@ -78,7 +78,7 @@ I build for real users, not demos.
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C707%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C710%20hrs%202%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-476%20hrs%2050%20mins-blue?style=flat)
 
@@ -88,7 +88,7 @@ I build for real users, not demos.
 
 **🐱 My GitHub Data** 
 
-> 📦 254.6 kB Used in GitHub's Storage 
+> 📦 257.9 kB Used in GitHub's Storage 
  > 
 > 🏆 229 Contributions in the Year 2026
  > 
@@ -125,61 +125,61 @@ Sunday                   1017 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               14 hrs 56 mins      █████████████░░░░░░░░░░░░   50.19 % 
-Markdown                 7 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
-Python                   3 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-Other                    1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-Text                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+TypeScript               14 hrs 56 mins      ████████████░░░░░░░░░░░░░   46.85 % 
+Markdown                 7 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
+Python                   5 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
+Other                    1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Text                     36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 
 🔥 Editors: 
-Claude Code              20 hrs 44 mins      █████████████████░░░░░░░░   69.64 % 
-PyCharm                  8 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   29.31 % 
-VS Code                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-Cursor                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Claude Code              20 hrs 42 mins      ████████████████░░░░░░░░░   64.93 % 
+PyCharm                  10 hrs 52 mins      █████████░░░░░░░░░░░░░░░░   34.09 % 
+VS Code                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Cursor                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      29 hrs 46 mins      █████████████████████████   100.00 % 
+Mac                      31 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 23 mins (81.92%)
+⏱ AI Coding Time: 23 hrs 56 mins (75.05%)
 
-✍️ 8,708 lines written by AI, 354 lines written by hand (96.09% AI-written)
+✍️ 8,708 lines written by AI, 500 lines written by hand (94.57% AI-written)
 
-🔤 10,494,305 Input Tokens, 1,756,351 Output Tokens
+🔤 10,369,157 Input Tokens, 1,754,023 Output Tokens
 
-💵 $466.83 Estimated AI Cost This Week
+💵 $466.49 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 370 AI Prompts
+🧠 19 AI Sessions, 366 AI Prompts
 
 Sonnet                   12,119 lines        █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.09% of written lines came from AI
-📄 Detailed Prompter — average 1,183 characters per prompt
-🔁 Iterative Prompter — average 17 prompts per session
-🚀 High AI Trust — 3.87% of changed lines were hand-edited
+🤖 AI-Driven — 94.57% of written lines came from AI
+📄 Detailed Prompter — average 1,195 characters per prompt
+🔁 Iterative Prompter — average 19 prompts per session
+🚀 High AI Trust — 4.96% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   24 repos            ███████████░░░░░░░░░░░░░░   44.44 % 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Python                   26 repos            ███████████░░░░░░░░░░░░░░   44.83 % 
+TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
 
 
- Last Updated on 20/09/2026 02:08:08 UTC
+ Last Updated on 21/09/2026 02:09:37 UTC
 <!--END_SECTION:waka-->
 
 ---
