@@ -78,9 +78,9 @@ I build for real users, not demos.
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C720%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C725%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-484%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-488%20hrs%2053%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -88,7 +88,7 @@ I build for real users, not demos.
 
 **🐱 My GitHub Data** 
 
-> 📦 258.0 kB Used in GitHub's Storage 
+> 📦 258.1 kB Used in GitHub's Storage 
  > 
 > 🏆 229 Contributions in the Year 2026
  > 
@@ -125,46 +125,46 @@ Sunday                   1017 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               14 hrs 30 mins      ██████████░░░░░░░░░░░░░░░   41.66 % 
-Python                   7 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-Markdown                 7 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
-Other                    1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-Text                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+TypeScript               14 hrs 40 mins      ███████████░░░░░░░░░░░░░░   42.98 % 
+Python                   8 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
+Markdown                 6 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
+JavaScript               1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Other                    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 
 🔥 Editors: 
-Claude Code              21 hrs 21 mins      ███████████████░░░░░░░░░░   61.33 % 
-PyCharm                  12 hrs 39 mins      █████████░░░░░░░░░░░░░░░░   36.33 % 
-VS Code                  42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Claude Code              20 hrs 10 mins      ███████████████░░░░░░░░░░   59.11 % 
+PyCharm                  13 hrs 8 mins       ██████████░░░░░░░░░░░░░░░   38.50 % 
+VS Code                  42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 Cursor                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      34 hrs 49 mins      █████████████████████████   100.00 % 
+Mac                      34 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 46 mins (71.13%)
+⏱ AI Coding Time: 23 hrs 59 mins (70.27%)
 
-✍️ 7,049 lines written by AI, 607 lines written by hand (92.07% AI-written)
+✍️ 6,073 lines written by AI, 716 lines written by hand (89.45% AI-written)
 
-🔤 14,443,250 Input Tokens, 1,670,908 Output Tokens
+🔤 13,674,260 Input Tokens, 1,406,739 Output Tokens
 
-💵 $449.75 Estimated AI Cost This Week
+💵 $368.51 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 393 AI Prompts
+🧠 20 AI Sessions, 373 AI Prompts
 
-Sonnet                   10,158 lines        █████████████████████████   99.67 % 
-Opus                     34 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Sonnet                   9,097 lines         █████████████████████████   99.63 % 
+Opus                     34 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.07% of written lines came from AI
-📄 Detailed Prompter — average 699 characters per prompt
+🤖 AI-Driven — 89.45% of written lines came from AI
+📄 Detailed Prompter — average 639 characters per prompt
 🔁 Iterative Prompter — average 19 prompts per session
-🚀 High AI Trust — 6.87% of changed lines were hand-edited
+🚀 High AI Trust — 8.82% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -180,7 +180,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2026 02:15:05 UTC
+ Last Updated on 24/09/2026 02:01:14 UTC
 <!--END_SECTION:waka-->
 
 ---
