@@ -125,39 +125,39 @@ Sunday                   1018 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   2 hrs 27 mins       ████████████░░░░░░░░░░░░░   49.72 % 
-Markdown                 1 hr                █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
-CSV                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-Docker                   21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-Other                    20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Python                   2 hrs 2 mins        ████████████░░░░░░░░░░░░░   46.55 % 
+Markdown                 1 hr                ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
+CSV                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+Docker                   21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+Text                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
 
 🔥 Editors: 
-PyCharm                  3 hrs 53 mins       ████████████████████░░░░░   78.60 % 
-Claude Code              1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
+PyCharm                  3 hrs 26 mins       ████████████████████░░░░░   78.30 % 
+Claude Code              57 mins             █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
 
 💻 Operating System: 
-Mac                      4 hrs 57 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 3 mins (21.4%)
+⏱ AI Coding Time: 57 mins (21.7%)
 
 ✍️ 699 lines written by AI, 525 lines written by hand (57.11% AI-written)
 
-🔤 2,505,689 Input Tokens, 220,991 Output Tokens
+🔤 1,842,849 Input Tokens, 209,550 Output Tokens
 
-💵 $23.15 Estimated AI Cost This Week
+💵 $20.76 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 29 AI Prompts
+🧠 4 AI Sessions, 22 AI Prompts
 
 Sonnet                   699 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 ⚖️ Balanced with AI — 57.11% of written lines came from AI
-📄 Detailed Prompter — average 768 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📝 Concise Prompter — average 344 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🔍 Hands-On Reviewer — 50.91% of changed lines were hand-edited
 ```
 
@@ -174,7 +174,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/10/2026 03:09:08 UTC
+ Last Updated on 11/10/2026 02:41:15 UTC
 <!--END_SECTION:waka-->
 
 ---
