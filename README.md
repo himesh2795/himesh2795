@@ -125,40 +125,40 @@ Sunday                   1018 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   2 hrs 2 mins        ████████████░░░░░░░░░░░░░   46.55 % 
-Markdown                 1 hr                ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
-CSV                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-Docker                   21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-Text                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Python                   1 hr 37 mins        ███████████░░░░░░░░░░░░░░   43.32 % 
+Markdown                 51 mins             ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
+Docker                   21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+CSV                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Text                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
 
 🔥 Editors: 
-PyCharm                  3 hrs 26 mins       ████████████████████░░░░░   78.30 % 
-Claude Code              57 mins             █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
+PyCharm                  2 hrs 56 mins       ████████████████████░░░░░   78.23 % 
+Claude Code              49 mins             █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
 
 💻 Operating System: 
-Mac                      4 hrs 23 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 57 mins (21.7%)
+⏱ AI Coding Time: 49 mins (21.77%)
 
-✍️ 699 lines written by AI, 525 lines written by hand (57.11% AI-written)
+✍️ 554 lines written by AI, 490 lines written by hand (53.07% AI-written)
 
-🔤 1,842,849 Input Tokens, 209,550 Output Tokens
+🔤 1,440,210 Input Tokens, 168,690 Output Tokens
 
-💵 $20.76 Estimated AI Cost This Week
+💵 $17.39 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 22 AI Prompts
+🧠 3 AI Sessions, 20 AI Prompts
 
-Sonnet                   699 lines           █████████████████████████   100.00 % 
+Sonnet                   554 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 57.11% of written lines came from AI
-📝 Concise Prompter — average 344 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 50.91% of changed lines were hand-edited
+⚖️ Balanced with AI — 53.07% of written lines came from AI
+📝 Concise Prompter — average 375 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 55.43% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -174,7 +174,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 02:41:15 UTC
+ Last Updated on 12/10/2026 03:05:23 UTC
 <!--END_SECTION:waka-->
 
 ---
