@@ -78,7 +78,7 @@ I build for real users, not demos.
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C761%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C762%20hrs%2046%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-513%20hrs%2051%20mins-blue?style=flat)
 
@@ -125,15 +125,14 @@ Sunday                   1018 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 37 mins        ███████████░░░░░░░░░░░░░░   43.32 % 
-Markdown                 51 mins             ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
-Docker                   21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-CSV                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Text                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+Python                   2 hrs 36 mins       █████████████████░░░░░░░░   69.26 % 
+Docker                   21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+Text                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+CSV                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
 
 🔥 Editors: 
-PyCharm                  2 hrs 56 mins       ████████████████████░░░░░   78.23 % 
-Claude Code              49 mins             █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
+PyCharm                  3 hrs 45 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
 Mac                      3 hrs 45 mins       █████████████████████████   100.00 % 
@@ -142,23 +141,7 @@ Mac                      3 hrs 45 mins       ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 49 mins (21.77%)
-
-✍️ 554 lines written by AI, 490 lines written by hand (53.07% AI-written)
-
-🔤 1,440,210 Input Tokens, 168,690 Output Tokens
-
-💵 $17.39 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 20 AI Prompts
-
-Sonnet                   554 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 53.07% of written lines came from AI
-📝 Concise Prompter — average 375 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 55.43% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -174,7 +157,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/10/2026 03:05:23 UTC
+ Last Updated on 13/10/2026 04:20:15 UTC
 <!--END_SECTION:waka-->
 
 ---
