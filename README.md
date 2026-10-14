@@ -78,7 +78,7 @@ I build for real users, not demos.
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C762%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C762%20hrs%2051%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-513%20hrs%2051%20mins-blue?style=flat)
 
@@ -125,17 +125,17 @@ Sunday                   1018 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   2 hrs 36 mins       █████████████████░░░░░░░░   69.26 % 
-Docker                   21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-Text                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-CSV                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Python                   2 hrs 2 mins        ███████████████░░░░░░░░░░   61.86 % 
+Docker                   21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Text                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+CSV                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
 
 🔥 Editors: 
-PyCharm                  3 hrs 45 mins       █████████████████████████   100.00 % 
+PyCharm                  3 hrs 18 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 45 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -157,7 +157,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2026 04:20:15 UTC
+ Last Updated on 14/10/2026 02:32:02 UTC
 <!--END_SECTION:waka-->
 
 ---
