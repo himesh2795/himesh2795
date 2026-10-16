@@ -125,17 +125,17 @@ Sunday                   1018 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   2 hrs 2 mins        ████████████████░░░░░░░░░   65.49 % 
-Docker                   21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-Text                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Python                   1 hr 21 mins        ██████████████░░░░░░░░░░░   55.68 % 
+Docker                   21 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+Text                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
 
 🔥 Editors: 
-PyCharm                  3 hrs 7 mins        █████████████████████████   100.00 % 
+PyCharm                  2 hrs 25 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 7 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -157,7 +157,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2026 02:12:49 UTC
+ Last Updated on 16/10/2026 02:03:17 UTC
 <!--END_SECTION:waka-->
 
 ---
