@@ -98,69 +98,6 @@ I build for real users, not demos.
  > 
 > 🔑 47 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1108 commits        █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
-🌆 Daytime                1708 commits        ████████░░░░░░░░░░░░░░░░░   31.00 % 
-🌃 Evening                2609 commits        ████████████░░░░░░░░░░░░░   47.36 % 
-🌙 Night                  84 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   574 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-Tuesday                  696 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-Wednesday                1142 commits        █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
-Thursday                 398 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-Friday                   321 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-Saturday                 1360 commits        ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
-Sunday                   1018 commits        █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Markdown                 3 hrs 17 mins       ███████████████░░░░░░░░░░   61.84 % 
-Other                    41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Python                   35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-YAML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-Docker                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-
-🔥 Editors: 
-Claude Code              4 hrs 1 min         ███████████████████░░░░░░   75.51 % 
-PyCharm                  1 hr 18 mins        ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
-
-💻 Operating System: 
-Mac                      5 hrs 19 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 4 hrs 39 mins (87.51%)
-
-✍️ 961 lines written by AI, 79 lines written by hand (92.4% AI-written)
-
-🔤 1,063,288 Input Tokens, 322,652 Output Tokens
-
-💵 $18.33 Estimated AI Cost This Week
-
-🧠 7 AI Sessions, 125 AI Prompts
-
-Sonnet                   964 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 92.4% of written lines came from AI
-📝 Concise Prompter — average 194 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
-🚀 High AI Trust — 7.57% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -174,7 +111,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2026 03:04:01 UTC
+ Last Updated on 01/11/2026 02:59:51 UTC
 <!--END_SECTION:waka-->
 
 ---
